@@ -34,9 +34,9 @@
 
 ## 📫 Как связаться?
 
-- Telegram: [@your_username](https://t.me/your_username)
-- Email: `your_email@example.com`
-- LinkedIn / Portfolio – *по желанию можно добавить*
+- Telegram: [@jamshidchoriyevDev](https://t.me/jamshidchoriyevDev)
+- Email: `jamshidchoriyev709@gmail.com`
+- LinkedIn / Portfolio – *https://www.linkedin.com/in/jamshid-choriyev-developer/*
 
 ---
 
