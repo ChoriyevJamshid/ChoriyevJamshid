@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,celery,docker,nginx,linux,git,github,sqlite,postman&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,docker,nginx,linux,git,github,sqlite,postman&perline=7" />
   </a>
 </p>
 
